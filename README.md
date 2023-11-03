@@ -1,6 +1,6 @@
 # Stable Diffusion Application using React with FastAPI
 
-Author: [Laura Uzcategui](https://github.com/laurauzcategui)
+
 
 Hello, I would like to share with you this small project that involves creating an Stable Diffusion App with React and FastAPI :grin:. 
 
